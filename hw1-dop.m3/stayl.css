@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid black;
+    width: 400px;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.error {
+    color: red;
+}
